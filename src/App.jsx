@@ -10,9 +10,9 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Dashboard />} />
-        <Route path="/setting" element={<Setting />} />
-        <Route path="/display" element={<Display />} />
+        <Route path="/car-analytics" element={<Dashboard />} />
+        <Route path="/car-analytics/setting" element={<Setting />} />
+        <Route path="car-analytics/display" element={<Display />} />
       </Routes>
     </Router>
   );

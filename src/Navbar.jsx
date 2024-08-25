@@ -7,19 +7,19 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container-fluid">
-        <Link className="navbar-brand" to="/" style={{ color: "yellowgreen" }}><i class="bi bi-exclude"></i> CarKingdom</Link>
+        <Link className="navbar-brand" to="/car-analytics" style={{ color: "yellowgreen" }}><i class="bi bi-exclude"></i> CarKingdom</Link>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav me-auto">
             <li className="nav-item">
-              <Link className="nav-link" to="/">Dashboard</Link>
+              <Link className="nav-link" to="/car-analytics">Dashboard</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/display">Display</Link>
+              <Link className="nav-link" to="/car-analytics/display">Display</Link>
             </li>
           </ul>
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <Link to="/setting">
+              <Link to="/car-analytics/setting">
                 <button className="btn btn-outline-info"><i class="bi bi-gear"></i> Display Setting</button>
               </Link>
             </li>
