@@ -80,11 +80,6 @@ const Display = () => {
       <div className="jumbotron">
         <h1 className="text-center mb-4" style={{ color: 'white' }}>Highlighted Cars</h1>
       </div>
-      <div class="text-end">
-        <a href="/car-analytics/setting" class="btn btn-warning">
-          <i class="bi bi-pen-fill"></i> Edit
-        </a>
-      </div>
       {highlightedCarItems.length > 0 ? (
         <div id="highlightedCarousel" className="carousel slide" data-bs-ride="carousel">
           <div className="carousel-inner">
