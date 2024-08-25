@@ -9,6 +9,7 @@ By Thananya Amornwiriya 6610609 sec542
        - click icon infront of the brand to view details
        - the detail shows model, count (quantity of cars that are avalible), price (in Thai Bath)
     ![image](https://github.com/user-attachments/assets/f2b81c8f-478f-45bb-8700-c49dc7348aab)
+
    1.2 Chart
       - There are 2 charts, pie chart and bar chart
       - Pie chart: illustrate a propotion of car by brands
