@@ -1,0 +1,184 @@
+{
+  "Honda": {
+    "Accord": {
+      "model": "Accord",
+      "count": 20,
+      "price": 1200000,
+      "image": "https://www.honda.co.th/uploads/car_models/highlight/1697434329_450.jpg"
+    },
+    "Civic": {
+      "model": "Civic",
+      "count": 30,
+      "price": 900000,
+      "image": "https://www.honda.co.th/uploads/car_models/grade/1722402872_946.jpg"
+    },
+    "City": {
+      "model": "City",
+      "count": 50,
+      "price": 600000,
+      "image": "https://www.honda.co.th/uploads/car_models/design_style/1709200445_860.jpg"
+    },
+    "CR-V": {
+      "model": "CR-V",
+      "count": 25,
+      "price": 1500000,
+      "image": "https://media.ed.edmunds-media.com/honda/cr-v/2025/oem/2025_honda_cr-v_4dr-suv_ex-l_fq_oem_1_1600.jpg"
+    }
+  },
+  "Toyota": {
+    "Camry": {
+      "model": "Camry",
+      "count": 100,
+      "price": 1500000,
+      "image": "https://img.pptvhd36.com/thumbor/2023/11/15/news-aed020c.jpg"
+    },
+    "Corolla": {
+      "model": "Corolla",
+      "count": 60,
+      "price": 1000000,
+      "image": "https://media.ed.edmunds-media.com/toyota/corolla/2023/oem/2023_toyota_corolla_sedan_xse_fq_oem_1_1280.jpg"
+    },
+    "Yaris": {
+      "model": "Yaris",
+      "count": 40,
+      "price": 700000,
+      "image": "https://s.isanook.com/au/0/ud/16/83883/yaris_60_years_04.jpg"
+    },
+    "RAV4": {
+      "model": "RAV4",
+      "count": 55,
+      "price": 1300000,
+      "image": "https://www.headlightmag.com/hlmwp/wp-content/uploads/2022/10/Toyota-RAV4-GR-Sport_01.jpg"
+    }
+  },
+  "Nissan": {
+    "Altima": {
+      "model": "Altima",
+      "count": 35,
+      "price": 1100000,
+      "image": "https://media.ed.edmunds-media.com/nissan/altima/2020/oem/2020_nissan_altima_sedan_25-platinum_fq_oem_1_1600.jpg"
+    },
+    "Sentra": {
+      "model": "Sentra",
+      "count": 45,
+      "price": 800000,
+      "image": "https://media.ed.edmunds-media.com/nissan/sentra/2024/oem/2024_nissan_sentra_sedan_sr_fq_oem_3_1600.jpg"
+    },
+    "Rogue": {
+      "model": "Rogue",
+      "count": 50,
+      "price": 1400000,
+      "image": "https://media.ed.edmunds-media.com/nissan/rogue/2024/oem/2024_nissan_rogue_4dr-suv_platinum_fq_oem_1_1600.jpg"
+    },
+    "Maxima": {
+      "model": "Maxima",
+      "count": 25,
+      "price": 1600000,
+      "image": "https://media.ed.edmunds-media.com/nissan/maxima/2022/oem/2022_nissan_maxima_sedan_35-sr_fq_oem_1_1600.jpg"
+    }
+  },
+  "Mazda": {
+    "Mazda3": {
+      "model": "Mazda3",
+      "count": 40,
+      "price": 950000,
+      "image": "https://mazdakaset-nawamin.com/album/product/large/279c29617ac0b53d1746d2690bd3b398.jpeg"
+    },
+    "CX-5": {
+      "model": "CX-5",
+      "count": 30,
+      "price": 1300000,
+      "image": "https://cdn.jdpower.com/ArticleImages/JDPA_2020%20Mazda%20CX-5%20Grand%20Touring%20Signature%20Machine%20Gray%20Front%20View.jpg"
+    },
+    "Mazda6": {
+      "model": "Mazda6",
+      "count": 20,
+      "price": 1450000,
+      "image": "https://www.motorshow.in.th/wp-content/uploads/2023/08/Motorshow-Mazda-Anniversary1.jpg"
+    },
+    "CX-9": {
+      "model": "CX-9",
+      "count": 15,
+      "price": 1800000,
+      "image": "https://s.isanook.com/au/0/ud/14/73907/mazda-cx9-2020-tn.jpg"
+    }
+  },
+  "Ford": {
+    "Focus": {
+      "model": "Focus",
+      "count": 60,
+      "price": 950000,
+      "image": "https://cdn.wheel-size.com/automobile/body/ford-focus-2022-2025-1718970899.0800748.jpg"
+    },
+    "Escape": {
+      "model": "Escape",
+      "count": 50,
+      "price": 1350000,
+      "image": "https://www.usnews.com/object/image/0000018c-268d-d95f-a99e-e6af89480001/01-2024-ford-escape-angular-front-jmv.JPG?update-time=1701453909455&size=responsive640"
+    },
+    "Mustang": {
+      "model": "Mustang",
+      "count": 10,
+      "price": 2600000,
+      "image": "https://m.atcdn.co.uk/ect/media/3e7dbe41afea4891a15e05034e6360e1.jpg"
+    },
+    "Explorer": {
+      "model": "Explorer",
+      "count": 25,
+      "price": 2000000,
+      "image": "https://motortrivia.com/wp-content/uploads/2023/05/01-Ford-Explorer-Kunlun-Peak-Edition-2023.jpg"
+    }
+  },
+  "Hyundai": {
+    "Elantra": {
+      "model": "Elantra",
+      "count": 55,
+      "price": 850000,
+      "image": "https://www.headlightmag.com/hlmwp/wp-content/uploads/2023/04/Hyundai_Elantra_N_01.jpg"
+    },
+    "Tucson": {
+      "model": "Tucson",
+      "count": 40,
+      "price": 1250000,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2025-hyundai-tucson-phev-113-660424e2cef90.jpg?crop=0.676xw:0.760xh;0.139xw,0.240xh&resize=768:*"
+    },
+    "Sonata": {
+      "model": "Sonata",
+      "count": 30,
+      "price": 1350000,
+      "image": "https://cf.autodeft2.pw/uploads/images/2019/Hyundai/Hyundai%20Sonata/9afb86d3-2020-hyundai-sonata-1_1.jpg"
+    },
+    "Santa Fe": {
+      "model": "Santa Fe",
+      "count": 20,
+      "price": 1700000,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2024-hyundai-santa-fe-65fc50a602149.jpg?crop=1.00xw:0.752xh;0,0.131xh&resize=768:*"
+    }
+  },
+  "BMW": {
+    "3 Series": {
+      "model": "3 Series",
+      "count": 20,
+      "price": 2200000,
+      "image": "https://www.motorexpo.co.th/data/content/1240_2022112911135475.jpg"
+    },
+    "X5": {
+      "model": "X5",
+      "count": 15,
+      "price": 3200000,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2024-bmw-x5-m60i-102-6602d48787fb7.jpg?crop=0.729xw:0.820xh;0.112xw,0.0769xh&resize=768:*"
+    },
+    "5 Series": {
+      "model": "5 Series",
+      "count": 25,
+      "price": 2800000,
+      "image": "https://static.thairath.co.th/media/Dtbezn3nNUxytg04aiHvB6uK69VA28Elzs7QpVYfywj7DB.jpg"
+    },
+    "X3": {
+      "model": "X3",
+      "count": 30,
+      "price": 2500000,
+      "image": "https://images2.thanhnien.vn/528068263637045248/2024/6/20/4487449138477077538861336727609292261506357n-1718868335073872838841.jpg"
+    }
+  }
+}
