@@ -81,7 +81,7 @@ const Display = () => {
         <h1 className="text-center mb-4" style={{ color: 'white' }}>Highlighted Cars</h1>
       </div>
       <div class="text-end">
-        <a href="/setting" class="btn btn-warning">
+        <a href="/car-analytics/setting" class="btn btn-warning">
           <i class="bi bi-pen-fill"></i> Edit
         </a>
       </div>
